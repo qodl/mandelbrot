@@ -6,7 +6,7 @@ This Python project visualizes the Mandelbrot set, a famous fractal representing
 - Generates a Mandelbrot set image with customizable resolution and bounds.
 - Displays the Mandelbrot set in an interactive plot with a color-coded iteration count.
 - Allows you to explore and experiment with different parameters, zoom levels, and resolutions.
-- The mandelbro_dynamic.py script allows you to visualize the Mandelbrot set dynamically with an animation.
+- The mandelbrot_dynamic.py script allows you to visualize the Mandelbrot set dynamically with an animation.
 
 ## Requirements
 - Python 3.7 or newer

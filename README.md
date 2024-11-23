@@ -29,9 +29,14 @@ This Python project visualizes the Mandelbrot set, a famous fractal representing
    ```bash
    python mandelbrot.py
    ```
-
+   
 2. Adjust parameters in the script, such as:
 * width and height: Resolution of the generated image.
 * x_min, x_max, y_min, y_max: Bounds of the complex plane to explore.
 * max_iter: Maximum iterations to determine divergence.
-   
+
+
+## Example Image
+
+![Figure_1](https://github.com/user-attachments/assets/9e3e05a7-8e2b-4b39-a6ab-07f878ff8587)
+
